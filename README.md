@@ -53,7 +53,7 @@ present(vc, animated: true)
 
 ## 🎥 Demo Video
 
-[![Watch the demo](/demo/Screen.png)](/demo/VideoRun.mp4)
+[![Watch the demo](./Demo/Screen.png)](./Demo/VideoRun.mp4)
 
 
 
